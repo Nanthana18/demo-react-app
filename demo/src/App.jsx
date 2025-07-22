@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <p>Demo File</p>
+      <p>Sample Branch</p>
     </>
   )
 }
